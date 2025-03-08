@@ -1,4 +1,5 @@
-# Project: Zimozi API and Function Testing
+# FastAPI Microservice with AI Summarization Tool (Using Free/Open-source Models)
+
 
 ## 🎯 Objective
 Design and develop a production-ready microservice using **FastAPI** that integrates with an open-source AI language model (e.g., Hugging Face models) to process user requests in real-time. The microservice must implement:
@@ -8,6 +9,13 @@ Design and develop a production-ready microservice using **FastAPI** that integr
   Accepts a user’s query and returns a basic response, demonstrating structured API handling.
 - **Text Summarization Endpoint**  
   Takes long-form text input and returns a concise summary using a free, open-source AI summarization model (**DistilBART 12-6** from Hugging Face).
+
+## Main Dependencies
+- **FastAPI** for creating endpoints and testing APIs
+- **Pydantic** for data validation
+- **Transformers** for downloading models locally
+- **Evaluate** for evaluating output summaries using ROUGE technique
+- **Pytest** for testing functionality
 
 ## Directory Structure
 
@@ -169,6 +177,4 @@ python tests/model/test_model.py
 ## Contributing
 Feel free to submit issues or pull requests to improve the project.
 
-## License
-MIT License
 

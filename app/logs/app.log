@@ -254,3 +254,45 @@
 2025-03-08 15:48:06,737 - INFO - FastAPI server is starting...
 2025-03-08 15:53:02,188 - INFO - FastAPI server is starting...
 2025-03-08 15:53:02,255 - INFO - FastAPI server is starting...
+2025-03-08 17:09:27,342 - INFO - FastAPI server is starting...
+2025-03-08 17:09:27,602 - INFO - GET http://127.0.0.1:8000/ - 200 - 0.00s
+2025-03-08 17:09:27,643 - INFO - GET http://127.0.0.1:8000/favicon.ico - 404 - 0.00s
+2025-03-08 17:09:30,471 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 17:09:30,643 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.07s
+2025-03-08 17:09:46,614 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.01s
+2025-03-08 17:10:04,832 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.00s
+2025-03-08 17:10:25,988 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.00s
+2025-03-08 17:10:31,638 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.00s
+2025-03-08 17:10:48,042 - INFO - Summary route accessed.
+2025-03-08 17:11:22,869 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 34.93s
+2025-03-08 17:12:39,190 - INFO - Summary route accessed.
+2025-03-08 17:12:52,717 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 13.53s
+2025-03-08 17:16:52,093 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 17:16:52,198 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-08 17:26:23,125 - INFO - FastAPI server is starting...
+2025-03-08 17:26:25,280 - INFO - GET http://127.0.0.1:8000/ - 200 - 0.00s
+2025-03-08 17:26:30,392 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 17:26:30,719 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.16s
+2025-03-08 17:27:02,719 - INFO - Query received: Hi i am deepak
+2025-03-08 17:27:02,719 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-08 17:27:27,732 - INFO - Summary route accessed.
+2025-03-08 17:28:06,261 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 38.53s
+2025-03-08 17:29:53,909 - INFO - FastAPI server is starting...
+2025-03-08 17:30:32,547 - INFO - Query received: What is AI?
+2025-03-08 17:30:32,548 - INFO - POST http://testserver/query - 200 - 0.00s
+2025-03-08 17:30:32,566 - INFO - Summary route accessed.
+2025-03-08 17:30:39,557 - INFO - POST http://testserver/summarize - 200 - 7.00s
+2025-03-08 17:36:00,534 - INFO - FastAPI server is starting...
+2025-03-08 17:36:06,797 - INFO - GET http://127.0.0.1:8000/ - 200 - 0.00s
+2025-03-08 17:36:06,968 - INFO - GET http://127.0.0.1:8000/ - 200 - 0.00s
+2025-03-08 17:36:10,203 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 17:36:10,484 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.08s
+2025-03-08 17:36:25,118 - INFO - Query received: I am deepak
+2025-03-08 17:36:25,118 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.01s
+2025-03-08 17:36:44,009 - INFO - Summary route accessed.
+2025-03-08 17:37:22,582 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 38.57s
+2025-03-08 17:38:09,740 - INFO - FastAPI server is starting...
+2025-03-08 17:38:29,489 - INFO - Query received: What is AI?
+2025-03-08 17:38:29,490 - INFO - POST http://testserver/query - 200 - 0.00s
+2025-03-08 17:38:29,497 - INFO - Summary route accessed.
+2025-03-08 17:38:36,229 - INFO - POST http://testserver/summarize - 200 - 6.73s
