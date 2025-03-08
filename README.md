@@ -148,6 +148,9 @@ To run all tests:
 ```sh
 pytest -v
 ```
+![Alt text](assets/test.png)
+
+
 To run function tests only:
 ```sh
 pytest tests/functions/ -v
