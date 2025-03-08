@@ -1,4 +1,4 @@
-# FastAPI Microservice with AI Summarization Tool (Using Free/Open-source Models)
+# FastAPI Microservice with AI Summarization Tool (Distilbart-cnn-12-6)
 
 
 ## 🎯 Objective
