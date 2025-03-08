@@ -41,7 +41,6 @@ Design and develop a production-ready microservice using **FastAPI** that integr
 │   ├── model/
 │   │   ├── test_model.py  # Model testing using ROUGE scores
 │
-├── myenv/  # Virtual environment
 ├── pytest.ini  # Pytest configuration
 ├── requirements.txt  # Dependencies
 ├── README.md  # Project documentation
