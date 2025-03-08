@@ -1,0 +1,256 @@
+2025-03-07 18:22:55,557 - INFO - Logging system initialized.
+2025-03-07 18:22:56,405 - INFO - Logging system initialized.
+2025-03-07 18:23:09,029 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-07 18:23:09,212 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.01s
+2025-03-07 18:23:22,445 - INFO - GET http://127.0.0.1:8000/ - 200 - 0.00s
+2025-03-07 18:23:22,517 - INFO - GET http://127.0.0.1:8000/favicon.ico - 404 - 0.00s
+2025-03-07 18:23:48,038 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-07 18:23:48,243 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-07 18:27:59,089 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-07 18:27:59,262 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-07 18:28:04,639 - INFO - Query route accessed.
+2025-03-07 18:28:04,639 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-07 18:28:29,982 - INFO - Summary route accessed.
+2025-03-07 18:28:29,982 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 0.00s
+2025-03-07 18:31:35,334 - INFO - FastAPI server is starting...
+2025-03-07 18:31:36,133 - INFO - FastAPI server is starting...
+2025-03-07 18:31:36,230 - INFO - FastAPI server is starting...
+2025-03-07 18:32:21,729 - INFO - Query route accessed.
+2025-03-07 18:32:21,729 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-07 18:33:02,361 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.01s
+2025-03-07 20:34:34,949 - INFO - FastAPI server is starting...
+2025-03-07 20:34:36,913 - INFO - FastAPI server is starting...
+2025-03-07 20:34:37,041 - INFO - FastAPI server is starting...
+2025-03-07 20:34:46,568 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.02s
+2025-03-07 20:34:46,888 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.10s
+2025-03-07 20:35:10,604 - INFO - Query route accessed.
+2025-03-07 20:35:10,605 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.01s
+2025-03-07 20:35:57,643 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.00s
+2025-03-07 20:36:27,533 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.00s
+2025-03-07 20:37:06,996 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.00s
+2025-03-07 20:37:07,956 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.02s
+2025-03-07 22:22:03,904 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.03s
+2025-03-07 22:22:04,331 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.01s
+2025-03-07 22:22:14,750 - INFO - Summary route accessed.
+2025-03-07 22:22:14,751 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 0.05s
+2025-03-07 22:24:12,340 - INFO - FastAPI server is starting...
+2025-03-07 22:24:36,202 - INFO - Summary route accessed.
+2025-03-07 22:24:36,209 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 0.09s
+2025-03-07 22:25:16,057 - INFO - FastAPI server is starting...
+2025-03-07 22:25:18,081 - INFO - FastAPI server is starting...
+2025-03-07 22:57:44,182 - INFO - FastAPI server is starting...
+2025-03-07 22:57:47,523 - INFO - FastAPI server is starting...
+2025-03-07 22:57:47,793 - INFO - FastAPI server is starting...
+2025-03-07 22:57:50,546 - INFO - GET http://127.0.0.1:8000/ - 200 - 0.03s
+2025-03-07 22:57:50,677 - INFO - GET http://127.0.0.1:8000/favicon.ico - 404 - 0.01s
+2025-03-07 22:57:53,784 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.01s
+2025-03-07 22:57:54,055 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-07 22:58:02,084 - INFO - Query route accessed.
+2025-03-07 22:58:02,085 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.12s
+2025-03-07 22:58:33,145 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.01s
+2025-03-07 22:58:48,516 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.00s
+2025-03-07 22:59:44,953 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.00s
+2025-03-07 22:59:45,981 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.00s
+2025-03-07 23:00:22,357 - INFO - Summary route accessed.
+2025-03-07 23:00:22,359 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 0.00s
+2025-03-07 23:01:08,638 - INFO - Summary route accessed.
+2025-03-07 23:01:08,975 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 0.34s
+2025-03-07 23:04:59,906 - INFO - Query route accessed.
+2025-03-07 23:04:59,906 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-07 23:06:20,990 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-07 23:06:21,155 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-07 23:06:21,989 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-07 23:06:22,088 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-07 23:06:29,920 - INFO - FastAPI server is starting...
+2025-03-07 23:06:30,027 - INFO - FastAPI server is starting...
+2025-03-07 23:06:33,078 - INFO - Summary route accessed.
+2025-03-07 23:06:33,078 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 0.00s
+2025-03-07 23:09:15,869 - INFO - Query route accessed.
+2025-03-07 23:09:15,876 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.01s
+2025-03-07 23:09:21,016 - INFO - Query route accessed.
+2025-03-07 23:09:21,016 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.01s
+2025-03-07 23:09:21,846 - INFO - Query route accessed.
+2025-03-07 23:09:21,847 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-07 23:09:22,513 - INFO - Query route accessed.
+2025-03-07 23:09:22,514 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-07 23:09:24,315 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.01s
+2025-03-07 23:09:24,536 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-07 23:09:31,755 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-07 23:09:31,847 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-07 23:09:33,279 - INFO - FastAPI server is starting...
+2025-03-07 23:09:33,371 - INFO - FastAPI server is starting...
+2025-03-07 23:09:35,455 - INFO - Query route accessed.
+2025-03-07 23:09:35,456 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-07 23:12:42,257 - INFO - Query route accessed.
+2025-03-07 23:12:42,258 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-07 23:12:52,309 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-07 23:12:52,501 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-07 23:13:03,528 - INFO - Query route accessed.
+2025-03-07 23:13:03,529 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-07 23:13:39,527 - INFO - FastAPI server is starting...
+2025-03-07 23:13:42,697 - INFO - FastAPI server is starting...
+2025-03-07 23:13:42,775 - INFO - FastAPI server is starting...
+2025-03-07 23:13:47,224 - INFO - GET http://127.0.0.1:8000/ - 200 - 0.00s
+2025-03-07 23:13:51,053 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-07 23:13:51,198 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-07 23:14:02,141 - INFO - Query route accessed.
+2025-03-07 23:14:02,142 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-07 23:14:37,916 - INFO - Summary route accessed.
+2025-03-07 23:14:37,916 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 0.00s
+2025-03-07 23:14:44,510 - INFO - Summary route accessed.
+2025-03-07 23:14:44,511 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 0.00s
+2025-03-07 23:15:09,474 - INFO - Summary route accessed.
+2025-03-07 23:15:09,474 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 0.00s
+2025-03-07 23:16:43,539 - INFO - Summary route accessed.
+2025-03-07 23:16:43,545 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 0.01s
+2025-03-07 23:21:04,595 - INFO - FastAPI server is starting...
+2025-03-07 23:21:18,315 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-07 23:21:18,468 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-07 23:21:24,148 - INFO - Summary route accessed.
+2025-03-07 23:21:24,148 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 0.00s
+2025-03-08 01:31:36,567 - INFO - FastAPI server is starting...
+2025-03-08 01:31:48,321 - INFO - FastAPI server is starting...
+2025-03-08 01:31:48,542 - INFO - FastAPI server is starting...
+2025-03-08 01:31:52,449 - INFO - GET http://127.0.0.1:8000/ - 200 - 0.00s
+2025-03-08 01:31:52,557 - INFO - GET http://127.0.0.1:8000/favicon.ico - 404 - 0.00s
+2025-03-08 01:31:55,686 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 01:31:55,865 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.07s
+2025-03-08 01:32:07,453 - INFO - Query route accessed.
+2025-03-08 01:32:07,453 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.03s
+2025-03-08 01:32:37,707 - INFO - Summary route accessed.
+2025-03-08 01:33:20,622 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.11s
+2025-03-08 01:35:18,768 - INFO - GET http://127.0.0.1:8000/ - 200 - 0.00s
+2025-03-08 01:35:22,051 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 01:35:22,197 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-08 01:35:33,289 - INFO - FastAPI server is starting...
+2025-03-08 01:35:39,658 - INFO - Summary route accessed.
+2025-03-08 01:35:52,030 - INFO - Summary route accessed.
+2025-03-08 01:35:57,077 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 01:35:57,145 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-08 01:36:25,088 - INFO - FastAPI server is starting...
+2025-03-08 01:36:29,729 - INFO - FastAPI server is starting...
+2025-03-08 01:36:29,957 - INFO - FastAPI server is starting...
+2025-03-08 01:36:38,102 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 01:36:38,158 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-08 01:36:50,177 - INFO - Summary route accessed.
+2025-03-08 01:38:44,459 - INFO - Summary route accessed.
+2025-03-08 01:38:45,931 - INFO - Summary route accessed.
+2025-03-08 01:38:47,172 - INFO - Summary route accessed.
+2025-03-08 01:39:29,564 - INFO - FastAPI server is starting...
+2025-03-08 01:39:34,264 - INFO - FastAPI server is starting...
+2025-03-08 01:39:34,324 - INFO - FastAPI server is starting...
+2025-03-08 01:39:50,767 - INFO - Summary route accessed.
+2025-03-08 01:39:55,312 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 01:39:55,389 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-08 01:40:00,604 - INFO - Query route accessed.
+2025-03-08 01:40:00,605 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-08 01:40:31,198 - INFO - FastAPI server is starting...
+2025-03-08 01:40:36,053 - INFO - FastAPI server is starting...
+2025-03-08 01:40:36,112 - INFO - FastAPI server is starting...
+2025-03-08 01:40:49,856 - INFO - Query route accessed.
+2025-03-08 01:40:49,856 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-08 01:41:01,674 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.00s
+2025-03-08 01:42:09,806 - INFO - GET http://127.0.0.1:8000/ - 200 - 0.00s
+2025-03-08 01:42:12,907 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 01:42:12,993 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-08 01:42:28,598 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 01:42:28,635 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-08 01:42:29,347 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 01:42:29,389 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-08 01:42:29,765 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 01:42:29,798 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-08 01:42:31,639 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 01:42:31,673 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.00s
+2025-03-08 13:27:32,144 - INFO - FastAPI server is starting...
+2025-03-08 13:29:47,288 - INFO - FastAPI server is starting...
+2025-03-08 13:30:53,826 - INFO - FastAPI server is starting...
+2025-03-08 13:31:02,691 - INFO - FastAPI server is starting...
+2025-03-08 13:31:02,836 - INFO - FastAPI server is starting...
+2025-03-08 13:55:15,640 - INFO - FastAPI server is starting...
+2025-03-08 13:55:24,312 - INFO - FastAPI server is starting...
+2025-03-08 13:55:24,731 - INFO - FastAPI server is starting...
+2025-03-08 13:55:28,752 - INFO - GET http://127.0.0.1:8000/ - 200 - 0.00s
+2025-03-08 13:55:28,839 - INFO - GET http://127.0.0.1:8000/favicon.ico - 404 - 0.00s
+2025-03-08 13:55:31,246 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 13:55:31,526 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.06s
+2025-03-08 13:55:37,091 - INFO - Query route accessed.
+2025-03-08 13:55:37,092 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.01s
+2025-03-08 13:55:39,696 - INFO - Query route accessed.
+2025-03-08 13:55:39,697 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-08 13:55:40,698 - INFO - Query route accessed.
+2025-03-08 13:55:40,698 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-08 13:55:41,065 - INFO - Query route accessed.
+2025-03-08 13:55:41,065 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-08 13:55:41,241 - INFO - Query route accessed.
+2025-03-08 13:55:41,242 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-08 13:55:41,409 - INFO - Query route accessed.
+2025-03-08 13:55:41,409 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-08 13:57:08,163 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.00s
+2025-03-08 13:57:41,869 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.00s
+2025-03-08 14:00:17,066 - INFO - FastAPI server is starting...
+2025-03-08 14:00:17,148 - INFO - FastAPI server is starting...
+2025-03-08 14:00:18,008 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.00s
+2025-03-08 14:00:46,162 - INFO - Summary route accessed.
+2025-03-08 14:01:15,618 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 29.47s
+2025-03-08 14:06:03,510 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.00s
+2025-03-08 14:07:09,727 - INFO - Summary route accessed.
+2025-03-08 14:07:26,066 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 16.34s
+2025-03-08 14:11:20,264 - INFO - Summary route accessed.
+2025-03-08 14:11:28,083 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 7.82s
+2025-03-08 14:11:42,199 - INFO - Summary route accessed.
+2025-03-08 14:11:51,049 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 8.85s
+2025-03-08 14:12:45,987 - INFO - Summary route accessed.
+2025-03-08 14:12:54,902 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 8.92s
+2025-03-08 14:13:14,750 - INFO - FastAPI server is starting...
+2025-03-08 14:13:14,945 - INFO - FastAPI server is starting...
+2025-03-08 14:13:15,014 - INFO - POST http://127.0.0.1:8000/summarize - 422 - 0.04s
+2025-03-08 14:17:59,041 - INFO - FastAPI server is starting...
+2025-03-08 14:17:59,110 - INFO - FastAPI server is starting...
+2025-03-08 14:18:14,141 - INFO - Query route accessed.
+2025-03-08 14:18:14,142 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.01s
+2025-03-08 14:23:00,915 - INFO - FastAPI server is starting...
+2025-03-08 14:23:00,992 - INFO - FastAPI server is starting...
+2025-03-08 14:24:44,273 - INFO - FastAPI server is starting...
+2025-03-08 14:24:44,362 - INFO - FastAPI server is starting...
+2025-03-08 14:24:44,374 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 14:24:44,710 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.15s
+2025-03-08 14:25:25,876 - INFO - Query received: string
+2025-03-08 14:25:25,877 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-08 14:26:31,908 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 14:26:41,518 - INFO - FastAPI server is starting...
+2025-03-08 14:26:41,595 - INFO - FastAPI server is starting...
+2025-03-08 14:26:41,619 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.02s
+2025-03-08 14:27:37,178 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 14:27:47,002 - INFO - FastAPI server is starting...
+2025-03-08 14:27:47,082 - INFO - FastAPI server is starting...
+2025-03-08 14:27:47,100 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.01s
+2025-03-08 14:27:56,037 - INFO - Query received: string
+2025-03-08 14:27:56,038 - INFO - POST http://127.0.0.1:8000/query - 200 - 0.00s
+2025-03-08 14:58:31,074 - INFO - FastAPI server is starting...
+2025-03-08 14:58:31,206 - INFO - Query received: What is AI?
+2025-03-08 14:58:31,206 - INFO - POST http://testserver/query - 200 - 0.00s
+2025-03-08 14:58:31,232 - INFO - Summary route accessed.
+2025-03-08 14:58:39,351 - INFO - POST http://testserver/summarize - 200 - 8.14s
+2025-03-08 15:06:12,320 - INFO - FastAPI server is starting...
+2025-03-08 15:06:16,834 - INFO - FastAPI server is starting...
+2025-03-08 15:06:16,982 - INFO - FastAPI server is starting...
+2025-03-08 15:06:25,476 - INFO - GET http://127.0.0.1:8000/ - 200 - 0.00s
+2025-03-08 15:06:29,143 - INFO - GET http://127.0.0.1:8000/docs - 200 - 0.00s
+2025-03-08 15:06:29,309 - INFO - GET http://127.0.0.1:8000/openapi.json - 200 - 0.06s
+2025-03-08 15:06:51,728 - INFO - Summary route accessed.
+2025-03-08 15:06:59,458 - INFO - POST http://127.0.0.1:8000/summarize - 200 - 7.73s
+2025-03-08 15:08:29,567 - INFO - FastAPI server is starting...
+2025-03-08 15:08:29,634 - INFO - Query received: What is AI?
+2025-03-08 15:08:29,634 - INFO - POST http://testserver/query - 200 - 0.00s
+2025-03-08 15:08:29,681 - INFO - Summary route accessed.
+2025-03-08 15:08:37,230 - INFO - POST http://testserver/summarize - 200 - 7.55s
+2025-03-08 15:08:45,034 - INFO - FastAPI server is starting...
+2025-03-08 15:08:45,165 - INFO - FastAPI server is starting...
+2025-03-08 15:41:47,430 - INFO - FastAPI server is starting...
+2025-03-08 15:41:47,700 - INFO - FastAPI server is starting...
+2025-03-08 15:43:14,016 - INFO - FastAPI server is starting...
+2025-03-08 15:43:14,212 - INFO - FastAPI server is starting...
+2025-03-08 15:48:06,494 - INFO - FastAPI server is starting...
+2025-03-08 15:48:06,737 - INFO - FastAPI server is starting...
+2025-03-08 15:53:02,188 - INFO - FastAPI server is starting...
+2025-03-08 15:53:02,255 - INFO - FastAPI server is starting...
